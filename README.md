@@ -24,7 +24,7 @@ I am self-teaching the content of CSE 477 to develop the necessary technical ski
 
 As of January 2022, I am not taking this class officially through Michigan State University.
 
-The content in this repository will be notes derived from a (previous semester version)[] of the course and personal notes as I follow the lectures and complete the assignments openly sourced.
+The content in this repository will be personal notes derived from a [previous semester version](https://webdev.cse.msu.edu/~cse477/) of the course as I follow the lectures and complete the assignments openly sourced.
 
 **Technologies:**
 &nbsp;
